@@ -3,6 +3,13 @@
 int main (){
     printf("ahlaaa");
     printf("ahlaaa");
+    printf("ahlaaa");
+    printf("ahlaaa");
+    printf("ahlaaa");
+    printf("ahlaaa");
+    printf("ahlaaa");
+    printf("ahlaaa");
+    printf("ahlaaa");
 
     return 0;
 }
